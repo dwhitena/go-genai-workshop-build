@@ -14,3 +14,4 @@ This example application pulls together LLM chaining, retrieval/augmentation, em
 - [db](db) - Scripts to prep a database with reference chess information
 - [api](api) - The backend REST API supporting the main functionality
 - [ui](ui) - A thin UI that calls the REST API and displays the games
+- [exercises][exercises] - A series of exercises allowing attendees to gradually build the LLM-driven functionality of the API
